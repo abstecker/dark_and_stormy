@@ -3,8 +3,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE-GPLv3)
 
 ---
+![dark_and_stormy.jpg](docs/images/dark_and_stormy.jpg)
 
-# Use [Poetry](https://python-poetry.org/)
+Using [Poetry](https://python-poetry.org/) to make the greater good.
 
 ## Git-R-Done
 
