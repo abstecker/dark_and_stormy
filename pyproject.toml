@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "dark-and-stormy"
+version = "0.1.0"
+description = ""
+authors = ["ElectronicPanopticon <gaoler@electronicpanopticon.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
